@@ -150,5 +150,15 @@ Git - **система управления версиями** _\(version contro
 * Сохраняем изменения \(commit + push\)
 * Проверяем: [https://username.github.io/](https://username.github.io/)
 
+#### А зачем мне вообще всё это надо?
+
+В качестве ответа на этот вопрос - несколько крутых исторических проектов. :\)
+
+* [http://ricedh.github.io/](http://ricedh.github.io/)
+* [https://github.com/C2DH](https://github.com/C2DH)
+* [http://lincolnmullen.com/](http://lincolnmullen.com/)
+* [http://digital.hackinghistory.ca/](http://digital.hackinghistory.ca/)
+* [https://programminghistorian.org](https://programminghistorian.org)
+
 
 
