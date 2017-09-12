@@ -24,7 +24,7 @@
 
 ![](https://lh4.googleusercontent.com/7nlqHBXXNKiPB5B90tK4pMW2DYFgXuyfSnx6KhnqtTlQz4w4eDNSPpKwk1j92CT4Ch0NoRRxMGu_Lx2XvslcF5flFsIlMxDAGhcUEtjeSkfC_qSPzUzsWLFfKflf5KohzGqRPcBHHo0)
 
-    _ Источник картинки: https://ru.wikipedia.org/wiki/FAT _
+_Источник картинки: https://ru.wikipedia.org/wiki/FAT_
 
 
 
