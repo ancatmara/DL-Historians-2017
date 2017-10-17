@@ -20,7 +20,15 @@
 
 [Corpus Analysis for Historians ](https://programminghistorian.org/lessons/corpus-analysis-with-antconc)\(tutorial\)
 
-[Sample Corpus](https://programminghistorian.org/assets/corpus-analysis-with-antconc/antconc_corpus_files.zip)
+[Sample Corpus](https://www.dropbox.com/s/cmt0m8wxcj78hh8/sample_corpus.txt?dl=0)
+
+### Corpus Linguistics for Historians
+
+[SketchEngine Historical Corpora](https://www.sketchengine.co.uk/user-guide/historians/)
+
+[Advanced Corpus Linguistics for Historians](http://historyinthecity.blogspot.ru/2014/12/two-fun-filled-hours-of-computational.html)
+
+[Old Newspapers Dataset](https://www.kaggle.com/alvations/old-newspapers/version/3) \(1,4 GB\)
 
 ### 
 
