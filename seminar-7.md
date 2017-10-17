@@ -28,8 +28,6 @@
 
 [Advanced Corpus Linguistics for Historians](http://historyinthecity.blogspot.ru/2014/12/two-fun-filled-hours-of-computational.html)
 
-[Old Newspapers Dataset](https://www.kaggle.com/alvations/old-newspapers/version/3) \(1,4 GB\)
-
 ### 
 
 
