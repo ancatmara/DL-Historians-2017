@@ -10,15 +10,13 @@
 
 Можно потренироваться на любом тексте -- например, на ["Капитанской дочке"](https://www.dropbox.com/s/aky2md6724r3yww/капитанская дочка.txt?dl=0) А.С. Пушкина.
 
-
-
 ### Облака тегов
 
-* [Word Clouds](https://www.wordclouds.com/) -- тонкие настройкие, разные формы облаков, фильтрация стоп-слов, можно загрузить файл
+* [Word Clouds](https://www.wordclouds.com/) -- тонкие настройки, разные формы облаков, фильтрация стоп-слов, можно загрузить файл
 * [Wordle](http://www.wordle.net) -- настройка формы облака, шрифта и цвета слов, работа с небольшими текстами
 * [Word It Out](https://worditout.com) -- настройки цвета и размера слов, работа с небольшими текстами
 * [Tagxedo](http://www.tagxedo.com/app.html) -- настройка ориентации слов, цветовой схемы, формы облака
-* [Word Cloud by Jason Davies](https://www.jasondavies.com/wordcloud/) -- настройка количества слов и угла и поворота
+* [Word Cloud by Jason Davies](https://www.jasondavies.com/wordcloud/) -- настройка количества слов и их ориентации
 
 ### 
 
