@@ -16,7 +16,12 @@
 
 ## Обработка изображений
 
-
+* [Ищем похожие лица Вконтакте](https://findface.ru/)
+* [Определяем возраст по фото](https://how-old.net/)
+* [Рисуем скетчи](https://quickdraw.withgoogle.com/#), а нейросеть распознает, что изображено
+* [Подделываем стиль известного художника](http://likemo.net/)
+* [Раскрашиваем черно-белую фотографию](https://demos.algorithmia.com/colorize-photos/)
+* [Рисуем психоделических котов](https://affinelayer.com/pixsrv/)
 
 
 
